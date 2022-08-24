@@ -20,6 +20,7 @@ Nesse projeto como o foco era aprender React, acabei usando o mesmo, e também u
 ### Requisitos
 
 NodeJS
+<br>
 NPM
 
 ### Como instalar
