@@ -9,10 +9,6 @@
 -   [Sobre](#Sobre)
 -   [Instalação](#instalacao)
 -   [Como usar](#como-usar)
-    -   [Usuarios](#usuarios)
-    -   [Motoristas](#motoristas)
-    -   [Corridas](#Corridas)
--   [Testes](#testes)
 
 ## Sobre
 
